@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="map">map</string>
+    <string name="favorites">favorites</string>
+</resources>
